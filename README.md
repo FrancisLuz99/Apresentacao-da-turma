@@ -1,11 +1,14 @@
 # Apresentação-da-turma
 Apresentação da turma de lógica de programação 2025
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=30A3D&size=60&center=true&vCenter=true&width=1000&lines=Conecte-se+Comigo)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=60&center=true&vCenter=true&width=1000&lines=Bem-Vindo!)](https://git.io/typing-svg)
 
+## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:logica.programacao2025@gmail.com)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=000)
+
+## Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=000)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=000)
